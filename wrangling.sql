@@ -1,6 +1,7 @@
 SELECT DISTINCT(department)
 FROM staff
 ORDER BY department;
+/* SQL */
 
 /*Reformatting Characters Data */
 SELECT DISTINCT(UPPER(department))
