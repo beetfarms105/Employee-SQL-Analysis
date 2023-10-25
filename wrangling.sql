@@ -110,3 +110,5 @@ SELECT
 	FLOOR(AVG(salary)) AS floor_salary
 FROM staff
 GROUP BY department;
+
+---hello--
